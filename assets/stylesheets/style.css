@@ -100,7 +100,7 @@ label{
 }
 
 .radio-toolbar input[type="radio"]:checked+label {
-  background-color: #050505;
+  background-color: #c44e4e;
 }
 
 
